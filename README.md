@@ -1,4 +1,3 @@
-# Python-Learninng-Journey
 # 🐍 Python Learning Journey
 
 ## 🇹🇷 Türkçe
