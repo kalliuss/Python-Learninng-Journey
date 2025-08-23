@@ -1,49 +1,58 @@
-# 🐍 Python Learning Journey
+# 🤖 AI & Data Science Learning Journey
 
 ## 🇹🇷 Türkçe
 
 Merhaba! 👋  
-Bu repo, **Python öğrenme yolculuğumu** adım adım belgelemek için oluşturuldu.  
-Neden Python? Çünkü Python:  
-- Basit ve okunabilir bir dil,  
-- Geniş bir kütüphane ekosistemine sahip,  
-- Veri bilimi, yapay zekâ, web geliştirme ve otomasyon gibi alanlarda güçlü,  
-- Dünya genelinde en çok kullanılan dillerden biri.  
+Bu repo, **Yapay Zekâ ve Veri Bilimi öğrenme yolculuğumu** adım adım belgelemek için oluşturuldu.  
+
+Neden bu alan? Çünkü:  
+- Python gibi güçlü ve esnek bir dil üzerine kuruludur,  
+- Veri analizi, makine öğrenmesi, derin öğrenme ve yapay zekâ projelerinde geniş bir kullanım alanına sahiptir,  
+- Akademik dünyadan endüstriye kadar her yerde yüksek talep gören beceriler sunar,  
+- Sürekli gelişen bir ekosistem ve güçlü bir topluluk desteğine sahiptir.  
+
+Ayrıca, bu alanı seçmemin en büyük nedeni: **geleceğin en önemli teknolojilerinden biri olması** ve hem akademik hem de profesyonel hayatımda bana yeni kapılar açacağına inanmamdır. 🚀  
 
 ### 🎯 Amacım
-Programlama becerilerimi güçlendirerek hem **akademik hayatımda** hem de **kariyerimde** kullanabileceğim sağlam bir temel oluşturmak.  
+Programlama ve veri odaklı becerilerimi geliştirerek hem **akademik hayatımda** hem de **kariyerimde** sağlam bir temel oluşturmak.  
 
 ### 🚀 Hedeflerim
 - Python temellerini öğrenmek ve pekiştirmek  
-- Veri bilimi ve yapay zekâya giriş yapmak  
-- Mini projeler geliştirerek öğrendiklerimi uygulamak  
+- Veri bilimi ve yapay zekâ konularına giriş yapmak  
+- Mini projeler ile öğrendiklerimi uygulamak  
 - GitHub üzerinde ilerlememi paylaşarak hem kendime motivasyon sağlamak hem de başkalarına ilham olmak  
 
-📌 Bu repo sadece bir kod deposu değil, aynı zamanda benim kişisel öğrenme günlüğüm.  
+📌 Bu repo sadece bir kod deposu değil, aynı zamanda benim kişisel **öğrenme günlüğüm** olacak.  
+
+En altta ayrıca **12 haftalık yol haritamı** da bulabilirsiniz.  
 
 ---
 
 ## 🇬🇧 English
 
 Hello! 👋  
-This repository was created to **document my Python learning journey** step by step.  
-Why Python? Because Python is:  
-- Simple and easy to read,  
-- Backed by a huge ecosystem of libraries,  
-- Powerful in data science, artificial intelligence, web development, and automation,  
-- One of the most popular programming languages in the world.  
+This repository was created to **document my journey into Artificial Intelligence and Data Science** step by step.  
+
+Why this field? Because it:  
+- Builds upon Python, a powerful and flexible language,  
+- Covers a wide range of applications from data analysis to machine learning, deep learning, and AI projects,  
+- Provides highly in-demand skills both in academia and industry,  
+- Has a constantly evolving ecosystem with strong community support.  
+
+The main reason I chose this path is that **AI & Data Science represent the future of technology**, and I believe it will open new opportunities for both my academic journey and professional career. 🚀  
 
 ### 🎯 My Purpose
-To strengthen my programming skills and build a strong foundation that I can use in both **academics** and **career development**.  
+To strengthen my programming and data-focused skills, and build a solid foundation for both my **academic path** and **career development**.  
 
 ### 🚀 My Goals
 - Learn and reinforce Python fundamentals  
-- Get into data science and artificial intelligence  
-- Build mini projects to apply what I’ve learned  
+- Explore data science and artificial intelligence  
+- Apply my knowledge by building mini projects  
 - Share my progress on GitHub to keep myself motivated and inspire others  
 
-📌 This repo is not just a codebase, but also my personal learning diary.  
+📌 This repository is not just a codebase, but also my personal **learning diary**.  
 
+At the bottom, you can also find my **12-week learning roadmap**.  
 # 🗺️ 12 Haftalık Yol Haritası
 
 Bu yol haritası, **Python + SQL temelleri**, **veri bilimi araçları** ve **makine öğrenmesine giriş** aşamalarını kapsar.  
