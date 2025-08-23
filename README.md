@@ -44,7 +44,99 @@ To strengthen my programming skills and build a strong foundation that I can use
 
 📌 This repo is not just a codebase, but also my personal learning diary.  
 
+# 🗺️ 12 Haftalık Yol Haritası
 
+Bu yol haritası, **Python + SQL temelleri**, **veri bilimi araçları** ve **makine öğrenmesine giriş** aşamalarını kapsar.  
+Her hafta için kaynaklar 📖 ve projeler 📂 eklenmiştir.  
+
+---
+
+## 🔹 1. Ay: Python & SQL Temelleri
+
+### 📌 Hafta 1
+- 🔁 Python temeli tekrar  
+- 📖 [W3Schools Python](https://www.w3schools.com/python/)  
+- 📖 [Python Docs](https://docs.python.org/3/tutorial/)  
+
+### 📌 Hafta 2
+- 🗂️ Python veri yapıları & dosya işlemleri  
+- 📖 [W3Schools – Data Structures](https://www.w3schools.com/python/python_lists.asp)  
+- 📖 [Python Docs – File I/O](https://docs.python.org/3/tutorial/inputoutput.html)  
+
+### 📌 Hafta 3
+- 💾 SQL temeli + Python–SQLite entegrasyonu  
+- 🎥 Udemy SQL Kursu (Murat Yücedağ) → SELECT, WHERE, ORDER BY  
+- 📖 [W3Schools SQL](https://www.w3schools.com/sql/)  
+- 📖 [W3Schools Python SQLite](https://www.w3schools.com/python/python_sqlite.asp)  
+
+### 📌 Hafta 4
+- 📊 SQL ileri + SQLite + Pandas entegrasyonu  
+- 🎥 Udemy SQL Kursu (JOIN, GROUP BY, HAVING, Subquery)  
+- 📖 [Python sqlite3 Docs](https://docs.python.org/3/library/sqlite3.html)  
+- 📖 [Pandas read_sql](https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html)  
+
+---
+
+## 🔹 2. Ay: Veri Bilimi Araçları + SQL İleri Entegrasyon
+
+### 📌 Hafta 5
+- 🔢 NumPy temeli + MySQL entegrasyonu  
+- 📖 [NumPy Docs](https://numpy.org/doc/)  
+- 📖 [W3Schools Python MySQL](https://www.w3schools.com/python/python_mysql_getstarted.asp)  
+
+### 📌 Hafta 6
+- 🐼 Pandas veri analizi + SQLAlchemy giriş  
+- 📖 [Pandas Docs](https://pandas.pydata.org/docs/)  
+- 📖 [SQLAlchemy Docs](https://docs.sqlalchemy.org/)  
+- 📖 [RealPython SQLAlchemy](https://realpython.com/python-sqlalchemy/)  
+
+### 📌 Hafta 7
+- 📈 Veri görselleştirme + PostgreSQL entegrasyonu  
+- 📖 [Matplotlib Docs](https://matplotlib.org/stable/contents.html)  
+- 📖 [Seaborn Docs](https://seaborn.pydata.org/)  
+- 📖 [RealPython PostgreSQL](https://realpython.com/python-postgresql/)  
+
+### 📌 Hafta 8
+- 📝 Mini Veri Analizi Projesi (Titanic dataset)  
+- 📂 [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)  
+- Araçlar: **Pandas + Seaborn + SQL (SQLite/MySQL)**  
+
+---
+
+## 🔹 3. Ay: Makine Öğrenmesine Giriş + SQL Uygulamaları
+
+### 📌 Hafta 9
+- 🤖 Makine öğrenmesine giriş (regresyon) + SQL veri kaynağı  
+- 📖 [Scikit-learn Docs – Linear Models](https://scikit-learn.org/stable/supervised_learning.html#linear-model)  
+- 📂 Veri: SQL’den çek → Pandas’a aktar  
+
+### 📌 Hafta 10
+- 🔍 Sınıflandırma algoritmaları (Logistic Regression, Decision Tree)  
+- 📖 [Scikit-learn Classification](https://scikit-learn.org/stable/supervised_learning.html#classification)  
+- 📂 Uygulama: SQL’den gelen veri → Spam e-posta sınıflandırma  
+
+### 📌 Hafta 11
+- 🧩 Kümeleme (Clustering – K-Means)  
+- 📖 [Scikit-learn Clustering](https://scikit-learn.org/stable/modules/clustering.html)  
+- 📂 Uygulama: SQL’den müşteri verilerini çek → K-Means ile segmentasyon  
+
+### 📌 Hafta 12
+- 🚀 Mini ML Projesi (Titanic ML Prediction)  
+- 📂 [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)  
+- 📖 [Scikit-learn Model Evaluation](https://scikit-learn.org/stable/model_selection.html)  
+- Araçlar: **SQL + Pandas + ML Pipeline**  
+
+---
+
+## ✅ Özet
+- 🎥 Temel eğitim kaynağı: **Udemy SQL Kursu (Murat Yücedağ)**  
+- 🐍 Python öğrenimi: **W3Schools + Python Docs**  
+- 📊 Veri bilimi kütüphaneleri: **NumPy, Pandas, Matplotlib, Seaborn (Resmi Docs)**  
+- 💾 SQL entegrasyonu: **W3Schools, sqlite3 Docs, MySQL/PostgreSQL, SQLAlchemy**  
+- 📂 Projeler & veri setleri: **Kaggle (özellikle Titanic)**  
+- 🤖 Makine öğrenmesi: **Scikit-learn Docs**  
+
+---
 
 
 
