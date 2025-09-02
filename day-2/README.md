@@ -1,9 +1,9 @@
 # 🚀 Python Öğrenme Yolculuğu | Python Learning Journey  
 
-Merhaba, ben Hüseyin Kaan Bilgili. Bu repo, **Python öğrenme sürecimdeki günlük çalışmalarımı** içeriyor.  
+Merhaba, ben Kaan Bilgili. Bu repo, **Python öğrenme sürecimdeki günlük çalışmalarımı** içeriyor.  
 Her gün öğrendiklerimi kod örnekleriyle pekiştiriyor ve buradan paylaşıyorum.  
 
-Hello, I am Hüseyin Kaan Bilgili. This repo contains my **daily progress in learning Python**.  
+Hello, I am Kaan Bilgili. This repo contains my **daily progress in learning Python**.  
 Each day I practice what I learn with code examples and share it here.  
 
 ---
